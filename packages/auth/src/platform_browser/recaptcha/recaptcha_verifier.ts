@@ -87,11 +87,11 @@ export class RecaptchaVerifier implements ApplicationVerifierInternal {
    * @param authExtern - The corresponding Firebase {@link Auth} instance.
    */
   constructor(
+    authExtern: Auth,
     containerOrId: HTMLElement | string,
     private readonly parameters: RecaptchaParameters = {
       ...DEFAULT_PARAMS
-    },
-    authExtern: Auth
+    }
   ) {
     this.auth = _castAuth(authExtern);
     this.isInvisible = this.parameters.size === 'invisible';
