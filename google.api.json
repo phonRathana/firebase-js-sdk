@@ -5,27 +5,27 @@
  } 
  "project_info": { 
      "project_number": "36947975269", 
-     "firebase_url": "https://httpshttpsrathanaphonwebsitecoin-default-rtdb.firebaseio.com", 
-     "project_id": "httpshttpsrathanaphonwebsitecoin.firebaseio.com", 
-     "storage_bucket": "httpshttpsrathanaphonwebsitecoin.firebaseio.appspot.com" 
-   }, 
+     "firebase_url": "https://httpshttpsrathanaphonwebsitecoin-default-rtdb.firebaseio.com";
+     "project_id": "httpshttpsrathanaphonwebsitecoin.firebaseio.com"; 
+     "storage_bucket": "httpshttpsrathanaphonwebsitecoin.firebaseio.appspot.com";
+   },
    "client": [ 
      { 
        "client_info": { 
-         "mobilesdk_app_id": "1:36947975269:android:6d12f5c0b36353d385fa8c", 
+         "mobilesdk_app_id": "1:36947975269:android:6d12f5c0b36353d385fa8c";
          "android_client_info": { 
-           "package_name": "httpsrathanaphon.websitescoin.firebaseio.com" 
+           "package_name": "httpsrathanaphonwebsitescoin.firebaseio.com"; 
          } 
        }, 
        "oauth_client": [ 
          { 
-           "client_id": "36947975269-n2faiasnodle3kd47c205mvvof1eff1c.apps.googleusercontent.com", 
+           "client_id": "36947975269-n2faiasnodle3kd47c205mvvof1eff1c.apps.googleusercontent.com"; 
            "client_type": 3 
          } 
-       ], 
+       ],
        "api_key": [ 
          { 
-           "current_key": "AIzaSyCD-Ea-DWQJJW4INXFru8fHoQF-f5GsPeY" 
+           "current_key": "AIzaSyCD-Ea-DWQJJW4INXFru8fHoQF-f5GsPeY"; 
          } 
        ], 
        "services": { 
@@ -33,7 +33,7 @@
            "other_platform_oauth_client": [ 
              { 
                "client_id": "36947975269-n2faiasnodle3kd47c205mvvof1eff1c.apps.googleusercontent.com", 
-               "client_type": 3 
+               "client_type": 3;
              } 
            ] 
          } 
@@ -41,4 +41,5 @@
      } 
    ], 
    "configuration_version": "1" 
- }        
+}        
+  
